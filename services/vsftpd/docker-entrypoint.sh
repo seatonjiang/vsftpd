@@ -60,7 +60,7 @@ fi
 # 确保目录权限正确
 chown -R "$FTP_USER:$FTP_USER" "$FTP_ROOT"
 chmod 755 "$FTP_ROOT"
-log "已设置目录权限 (Owner: $FTP_USER, Mode: 755)"
+log "已设置目录权限"
 
 # 配置被动模式地址
 VSFTPD_CONF="/etc/vsftpd/vsftpd.conf"
