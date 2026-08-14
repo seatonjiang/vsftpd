@@ -86,7 +86,7 @@ docker compose up -d
 | 镜像名称 | 官方镜像 | 分发镜像 | 镜像标签 | 构建时间 |
 | :--- | :--- | :--- | :--- | :--- |
 | Caddy | `seatonjiang/caddy` | `docker.cnb.cool/seatonjiang/vsftpd/caddy` | alpine | |
-| vsftpd | `seatonjiang/vsftpd` | `docker.cnb.cool/seatonjiang/vsftpd/vsftpd` | alpine | |
+| vsftpd | `seatonjiang/vsftpd` | `docker.cnb.cool/seatonjiang/vsftpd/vsftpd` | alpine | 2026-08-14 |
 
 ## 📂 目录结构
 
